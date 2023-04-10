@@ -30,7 +30,7 @@
                 MessageBox.Show(ex.Message, ex.Source, MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
                 Exit Sub
             End Try
-            txtID.Text = .p.IDPersona.ToString
+            txtID.Text = p.IDPersona.ToString
             txtNombre.Text = p.Nombre.ToString
         End If
     End Sub
