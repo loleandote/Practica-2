@@ -86,6 +86,7 @@ Partial Class frmPersonas
         '
         'btnAnadir
         '
+        Me.btnAnadir.Enabled = False
         Me.btnAnadir.Location = New System.Drawing.Point(314, 233)
         Me.btnAnadir.Name = "btnAnadir"
         Me.btnAnadir.Size = New System.Drawing.Size(75, 23)
@@ -95,6 +96,7 @@ Partial Class frmPersonas
         '
         'btnActualizar
         '
+        Me.btnActualizar.Enabled = False
         Me.btnActualizar.Location = New System.Drawing.Point(419, 233)
         Me.btnActualizar.Name = "btnActualizar"
         Me.btnActualizar.Size = New System.Drawing.Size(82, 23)
@@ -113,6 +115,7 @@ Partial Class frmPersonas
         '
         'btnEliminar
         '
+        Me.btnEliminar.Enabled = False
         Me.btnEliminar.Location = New System.Drawing.Point(314, 278)
         Me.btnEliminar.Name = "btnEliminar"
         Me.btnEliminar.Size = New System.Drawing.Size(75, 23)

@@ -1,4 +1,6 @@
-﻿Public Class frmPersonas
+﻿Imports System.Windows.Controls
+
+Public Class frmPersonas
     Private p As Persona
 
 

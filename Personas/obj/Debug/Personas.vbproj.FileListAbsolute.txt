@@ -72,3 +72,29 @@ C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.vbproj.C
 C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.exe
 C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.xml
 C:\Users\AQC\source\repos\2022\PersonasBase\Personas\obj\Debug\Personas.pdb
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.vbproj.AssemblyReference.cache
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.Resources.resources
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.frmPersonas.resources
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.vbproj.GenerateResource.cache
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.vbproj.CoreCompileInputs.cache
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.exe
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.xml
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.pdb
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\Personas.exe.config
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\Personas.exe
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\Personas.pdb
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\Personas.xml
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\MySql.Data.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\Google.Protobuf.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\ZstdNet.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\BouncyCastle.Crypto.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\Ubiety.Dns.Core.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\System.Memory.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\System.Buffers.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\K4os.Compression.LZ4.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\K4os.Hash.xxHash.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\System.Numerics.Vectors.dll
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\bin\Debug\MySql.Data.xml
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.exe.config
+E:\Ingenieria Informática\Segundo\Segundo Cuatrimestre\Bases de datos\laboratorio\Practica 2\Personas\obj\Debug\Personas.vbproj.CopyComplete
